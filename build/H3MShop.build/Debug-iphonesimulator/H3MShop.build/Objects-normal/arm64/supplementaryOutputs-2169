@@ -1,0 +1,25 @@
+"/Users/mac/Desktop/H3MShop/H3MShop/Model/Category.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Category.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Category.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Category.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Category.d"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Main/View/MainView.swift":
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainView.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainView.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainView.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Utils/HttpClient.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HttpClient.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HttpClient.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HttpClient.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HttpClient.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Components/OrderUpdateRow.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/OrderUpdateRow.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/OrderUpdateRow.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/OrderUpdateRow.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/OrderUpdateRow.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/WishList/View/WishListView.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/WishListView.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/WishListView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/WishListView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/WishListView.d"

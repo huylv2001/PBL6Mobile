@@ -1,0 +1,20 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Main/View/MainView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "H3M"
+      },
+      {
+        "comment": "",
+        "key": "Popular"
+      },
+      {
+        "comment": "",
+        "key": "View All"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,28 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Login/View/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Forget Password ?"
+      },
+      {
+        "comment": "",
+        "key": "Or sign up with"
+      },
+      {
+        "comment": "",
+        "key": "Not register yet ?"
+      },
+      {
+        "comment": "",
+        "key": "Create Account"
+      },
+      {
+        "comment": "",
+        "key": "Please wait"
+      }
+    ]
+  },
+  "version": 1
+}

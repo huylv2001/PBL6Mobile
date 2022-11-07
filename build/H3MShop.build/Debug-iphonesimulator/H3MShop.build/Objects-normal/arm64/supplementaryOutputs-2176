@@ -1,0 +1,20 @@
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Notification/View/NotificationView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/NotificationView.swiftdeps"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/NotificationView.d"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/NotificationView.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/NotificationView.dia"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Main/ViewModel/MainViewModel.swift":
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainViewModel.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainViewModel.dia"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainViewModel.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainViewModel.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Model/AuthenticationRequest.swift":
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/AuthenticationRequest.d"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/AuthenticationRequest.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/AuthenticationRequest.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/AuthenticationRequest.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Splash/View/SplashView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SplashView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SplashView.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SplashView.dia"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SplashView.d"

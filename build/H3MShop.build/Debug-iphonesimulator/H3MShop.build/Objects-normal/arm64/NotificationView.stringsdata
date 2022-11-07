@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Notification/View/NotificationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notification"
+      },
+      {
+        "comment": "",
+        "key": "Order Update"
+      },
+      {
+        "comment": "",
+        "key": "H3M"
+      },
+      {
+        "comment": "",
+        "key": "1"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,25 @@
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Detail/ViewModel/DetailViewModel.swift":
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailViewModel.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailViewModel.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailViewModel.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailViewModel.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Components/HeaderView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HeaderView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HeaderView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HeaderView.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/HeaderView.dia"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Detail/View/CustomCorners.swift":
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CustomCorners.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CustomCorners.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CustomCorners.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CustomCorners.dia"
+"/Users/mac/Desktop/PBL6/H3MShop/H3MShop/ContentView.swift":
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ContentView.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ContentView.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ContentView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ContentView.o"
+"/Users/mac/Desktop/H3MShop/H3MShop/Components/SearchBarView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SearchBarView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SearchBarView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SearchBarView.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SearchBarView.dia"

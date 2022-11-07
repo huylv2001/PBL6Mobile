@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Components/BackgroundView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "H3M"
+      },
+      {
+        "comment": "",
+        "key": "Shop"
+      }
+    ]
+  },
+  "version": 1
+}

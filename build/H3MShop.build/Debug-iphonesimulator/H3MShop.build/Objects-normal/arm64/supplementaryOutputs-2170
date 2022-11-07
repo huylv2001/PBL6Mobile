@@ -1,0 +1,25 @@
+"/Users/mac/Desktop/H3MShop/H3MShop/Components/ProductView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ProductView.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ProductView.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ProductView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/ProductView.d"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Login/ViewModel/LoginViewModel.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/LoginViewModel.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/LoginViewModel.swiftdeps"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/LoginViewModel.d"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/LoginViewModel.o"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Cart/View/CartView.swift":
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CartView.d"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CartView.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CartView.dia"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CartView.swiftdeps"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/MainTab/View/MainTabView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainTabView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainTabView.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainTabView.dia"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/MainTabView.d"
+"/Users/mac/Desktop/H3MShop/H3MShop/Utils/Constants.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Constants.swiftdeps"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Constants.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Constants.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/Constants.o"

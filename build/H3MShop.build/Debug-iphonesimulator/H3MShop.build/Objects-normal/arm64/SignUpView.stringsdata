@@ -1,0 +1,44 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Signup/View/SignUpView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Confirm password"
+      },
+      {
+        "comment": "",
+        "key": "Haven't an account ?"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Please wait"
+      },
+      {
+        "comment": "",
+        "key": "Notification"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

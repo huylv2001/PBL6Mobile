@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/WishList/View/WishListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "H3M"
+      },
+      {
+        "comment": "",
+        "key": "1"
+      },
+      {
+        "comment": "",
+        "key": "Wish List"
+      },
+      {
+        "comment": "",
+        "key": "View All"
+      }
+    ]
+  },
+  "version": 1
+}

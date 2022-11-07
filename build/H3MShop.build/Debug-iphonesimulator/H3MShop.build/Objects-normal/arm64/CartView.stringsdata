@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Cart/View/CartView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My Cart"
+      },
+      {
+        "comment": "",
+        "key": "Total price: "
+      },
+      {
+        "comment": "",
+        "key": "$420.35"
+      },
+      {
+        "comment": "",
+        "key": "Check out"
+      }
+    ]
+  },
+  "version": 1
+}

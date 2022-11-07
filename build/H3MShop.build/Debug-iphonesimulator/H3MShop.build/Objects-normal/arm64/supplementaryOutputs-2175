@@ -1,0 +1,20 @@
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Signup/View/SignUpView.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpView.swiftdeps"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpView.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpView.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpView.o"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Signup/ViewModel/SignUpViewModel.swift":
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpViewModel.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpViewModel.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpViewModel.d"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/SignUpViewModel.dia"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Checkout/View/CheckoutView.swift":
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CheckoutView.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CheckoutView.swiftdeps"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CheckoutView.o"
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/CheckoutView.dia"
+"/Users/mac/Desktop/H3MShop/H3MShop/Core/Detail/View/DetailView.swift":
+  diagnostics: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailView.dia"
+  object: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailView.o"
+  dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailView.d"
+  swift-dependencies: "/Users/mac/Desktop/H3MShop/build/H3MShop.build/Debug-iphonesimulator/H3MShop.build/Objects-normal/arm64/DetailView.swiftdeps"

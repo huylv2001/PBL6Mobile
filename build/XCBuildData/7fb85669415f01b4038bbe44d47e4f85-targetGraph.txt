@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+H3MShop in H3MShop, no dependencies
+H3MShopTests in H3MShop, depends on:
+H3MShop in H3MShop (explicit)
+H3MShopUITests in H3MShop, depends on:
+H3MShop in H3MShop (explicit)

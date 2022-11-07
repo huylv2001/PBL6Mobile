@@ -1,0 +1,68 @@
+{
+  "source": "/Users/mac/Desktop/H3MShop/H3MShop/Core/Checkout/View/CheckoutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Online banking"
+      },
+      {
+        "comment": "",
+        "key": "Cash on delivery"
+      },
+      {
+        "comment": "",
+        "key": "Card Holder Name"
+      },
+      {
+        "comment": "",
+        "key": "Lê Văn Huy"
+      },
+      {
+        "comment": "",
+        "key": "Card Number"
+      },
+      {
+        "comment": "",
+        "key": "0400-9151-6219"
+      },
+      {
+        "comment": "",
+        "key": "Name Bank"
+      },
+      {
+        "comment": "",
+        "key": "Sacombank"
+      },
+      {
+        "comment": "",
+        "key": "Checkout "
+      },
+      {
+        "comment": "",
+        "key": "Product:"
+      },
+      {
+        "comment": "",
+        "key": "4"
+      },
+      {
+        "comment": "",
+        "key": "Subtotal:"
+      },
+      {
+        "comment": "",
+        "key": "$724"
+      },
+      {
+        "comment": "",
+        "key": "Shipped:"
+      },
+      {
+        "comment": "",
+        "key": "$15"
+      }
+    ]
+  },
+  "version": 1
+}
